@@ -69,7 +69,7 @@ User->>Bot: Visualizar uma tarefa específica
 Bot->>User: Listar os dados da tarefa específica
 ```
 
-## 📫 Contribuindo para <nome_do_projeto>
+<!-- ## 📫 Contribuindo para <nome_do_projeto>
 
   
 
@@ -89,7 +89,7 @@ Para contribuir com **To-Do-Bot**, siga estas etapas:
 
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
+ -->
   
 ## 😄 Seja um dos contribuidores
  
