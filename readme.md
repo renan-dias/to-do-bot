@@ -1,13 +1,14 @@
-# Hello World To-do-bot!
+# Hello World, To-do-bot!
 
 Olá, amigos!
 
 Digam olá para o **To-do-bot**! Um bot em *nodejs* que consumirá *APIs* de *IA* para ajudar a organizar e rastrear objetivos. Imagine só, um ~~assistente virtual~~ que sabe exatamente o que você precisa fazer, quando fazer e como fazer. Ele vai te lembrar das suas tarefas, te motivar, te dar feedback e até te elogiar quando você terminar. Não é incrível?
 
-Mais incrível será compartilha todo o desenvolvimento com vocês! 
+Mais incrível será compartilhar todo o desenvolvimento com vocês! 
 
-✨Um feliz 2024!
+✨Primeiro de tudo, um feliz 2024!
 Que seja um ano incrível para *to-dos* vocês**✨
+
 ![Logo do To-do-bot: Imagem de um robô amarelo segurando um lápis em um círculo. O robô tem grandes olhos azuis e no peitoral 'T.D' está escrito](https://th.bing.com/th/id/OIG.7WoXJNWmjG3z1zSIJuRk?pid=ImgGn)
 
 
